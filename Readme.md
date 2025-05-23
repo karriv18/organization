@@ -1,1 +1,2 @@
-A simple crud orgs
+composer install 
+php artisan serve 
